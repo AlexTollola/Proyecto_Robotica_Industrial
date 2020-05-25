@@ -1,0 +1,5 @@
+El dataset de las imágenes editadas se encuentra en google drive: 
+https://drive.google.com/drive/u/1/folders/1Y2dDo6gfESIHz6RNCkNoTYa6HJ6H_Zrw
+
+El dataset de las imágenes originales se encuentra en la siguiente liga: 
+http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
